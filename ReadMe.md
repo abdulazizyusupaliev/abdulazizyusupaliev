@@ -11,7 +11,7 @@
 
 ## 🚀 Skills & Tools
 
-<img align="left" height="153" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
+<img align="right" height="153" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
