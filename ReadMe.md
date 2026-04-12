@@ -5,7 +5,7 @@
 
 ## 👨‍🎓 About Me
 
-<img align="right" height="153" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s](https://giffiles.alphacoders.com/221/221170.gif)"  />
+<img align="right" height="153" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
 
 - National and international AIMO(Asian International Math Olympiad) medalist.
 - Have experience working with delever.uz.
