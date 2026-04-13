@@ -50,7 +50,7 @@
 - **Other:** Competitive Programming, Machine Learning
 
 ## 🌱 Currently Learning
-- Advanced ML & AI model deployment  
+- Advanced AI & ML model deployment  
 
 
 ## 🔭 Recent repos
