@@ -46,7 +46,7 @@
 
 - **Languages:** JavaScript, Typescript  
 - **Frameworks:** React, Next.js 
-- **Tools:** Git
+- **Tools:** Git, Bootstrap, Tailwind.
 - **Other:** Competitive Programming, Machine Learning
 
 ## 🌱 Currently Learning
@@ -58,6 +58,7 @@
 |----------------------------------|------------------------------------------------------------------------------------------|
 | [dwelve](https://github.com/GradeFlowOrg/frontend)   | fully functioning web app for monitoring test, exams                                               |
 | [udevs-app](https://github.com/abdulazizyusupaliev/udevs-app)           | web app for udevs academy      |
+| [udevs-app-backend](https://github.com/abdulazizyusupaliev/udevs-app-strapi-backend) | backend for udevs-app written in typescript                            |
 | [weather-app](https://github.com/abdulazizyusupaliev/weather-app-react) | weather app created using react                              |
 
 ## 🌐 Socials:
