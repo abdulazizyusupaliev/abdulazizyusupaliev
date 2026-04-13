@@ -53,7 +53,7 @@
 - Advanced ML & AI model deployment  
 
 
-## 🔭 Some repos from me(They are pretty old btw)
+## 🔭 Recent repos
 | Project                          | Description                                                                              |
 |----------------------------------|------------------------------------------------------------------------------------------|
 | [dwelve](https://github.com/GradeFlowOrg/frontend)   | fully functioning web app for monitoring test, exams                                               |
