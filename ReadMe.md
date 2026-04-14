@@ -56,8 +56,8 @@
 ## 🔭 Recent repos
 | Project                          | Description                                                                              |
 |----------------------------------|------------------------------------------------------------------------------------------|
-| [dwelve](https://github.com/GradeFlowOrg/frontend)   | fully functioning web app for monitoring test, exams                                               |
-| [udevs-app](https://github.com/abdulazizyusupaliev/udevs-app)           | web app for udevs academy      |
+| [dwelve](https://github.com/GradeFlowOrg/frontend)   | SaaS platform for schools and students and managing test, exams                                             |
+| [udevs-app](https://github.com/abdulazizyusupaliev/udevs-app)           | twitter-like web app for udevs academy      |
 | [udevs-app-backend](https://github.com/abdulazizyusupaliev/udevs-app-strapi-backend) | backend for udevs-app written in typescript                            |
 | [weather-app](https://github.com/abdulazizyusupaliev/weather-app-react) | weather app created using react                              |
 
@@ -67,20 +67,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdulazizyusupaliev&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulazizyusupaliev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdulazizyusupaliev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=abdulazizyusupaliev&icon=0&color=0)](https://visitcount.itsvg.in)
