@@ -74,3 +74,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizyusupaliev&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
