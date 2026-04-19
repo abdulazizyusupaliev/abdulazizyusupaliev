@@ -77,7 +77,16 @@
   </a>
 </div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizyusupaliev&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&layout=compact&hide_border=true&hide_title=true&theme=transparent)
+
+</div>
+</details>
