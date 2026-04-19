@@ -2,9 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" alt="header"/>
 </div>
 
-# Hi there 👋 I'm Abdulaziz
-
-[![GitHub followers](https://img.shields.io/github/followers/abdulazizyusupaliev?style=social)](https://github.com/abdulazizyusupaliev)
+# Hi there 👋 I'm Abdulaziz [![GitHub followers](https://img.shields.io/github/followers/abdulazizyusupaliev?style=social)](https://github.com/abdulazizyusupaliev)
 
 
 ## 👨‍🎓 About Me
