@@ -79,14 +79,14 @@
 
 ---
 
-<details>
+<!-- <details>
 <summary><b>GitHub Stats</b></summary>
-<br>
+<br> -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=transparent)
+![abdulazizyusupaliev's Stats](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&layout=compact&hide_border=true&hide_title=true&theme=transparent)
+![abdulazizyusupaliev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizyusupaliev&theme=material-palenight&hide_border=true)
 
-</div>
-</details>
+![abdulazizyusupaliev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+<!-- </details> -->
