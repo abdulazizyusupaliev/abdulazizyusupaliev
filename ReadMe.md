@@ -51,6 +51,20 @@
 - **Tools:** Git, Bootstrap, Tailwind.
 - **Other:** Competitive Programming, Machine Learning
 
+##
+
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br>
+<div align="center">
+
+![abdulazizyusupaliev's Stats](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+
+![abdulazizyusupaliev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizyusupaliev&theme=material-palenight&hide_border=true)
+
+![abdulazizyusupaliev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+</details>
+
 ## 🌱 Currently Learning
 - Advanced AI & ML model deployment  
 
@@ -76,17 +90,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
-
----
-
-<!-- <details>
-<summary><b>GitHub Stats</b></summary>
-<br> -->
-<div align="center">
-
-![abdulazizyusupaliev's Stats](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-
-![abdulazizyusupaliev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizyusupaliev&theme=material-palenight&hide_border=true)
-
-![abdulazizyusupaliev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
-<!-- </details> -->
