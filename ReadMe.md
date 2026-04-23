@@ -44,7 +44,7 @@
 
 ##
 
-<img align="right" height="153" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
+<img align="right" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
 
 - **Languages:** JavaScript, Typescript  
 - **Frameworks:** React, Next.js 
