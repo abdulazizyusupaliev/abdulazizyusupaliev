@@ -47,7 +47,7 @@
 
 - **Languages:** JavaScript, Typescript  
 - **Frameworks:** React, Next.js 
-- **Tools:** Git, Bootstrap, Tailwind.
+- **Tools:** Git, Bootstrap, Tailwind, Pug.
 - **Other:** Competitive Programming, Machine Learning
 
 ##
