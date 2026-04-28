@@ -13,7 +13,6 @@
 - Have experience working with delever.uz.
 - Currently working on creating my own startup.
 
-
 ## 🚀 Skills & Tools
 
 <div align="center">
