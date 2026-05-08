@@ -4,7 +4,6 @@
 
 # Hi there 👋 I'm Abdulaziz [![GitHub followers](https://img.shields.io/github/followers/abdulazizyusupaliev?style=social)](https://github.com/abdulazizyusupaliev)
 
-
 ## 👨‍🎓 About Me
 
 <img align="right" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_b1EUVNWPEToLyLyqvu0egA-wPDnH6Msy_g&s"  />
