@@ -44,10 +44,10 @@
 
 <img align="right" height="125" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
 
-- **Languages:** JavaScript, Typescript  
-- **Frameworks:** React, Next.js 
-- **Tools:** Git, Bootstrap, Tailwind, Pug.
-- **Other:** Competitive Programming, Machine Learning
+- **Languages:** JavaScript, Typescript, Python.
+- **Frameworks:** React, Next.js.
+- **Tools:** Git, Bootstrap, Tailwind, Pug, Matplotlib, Seaborn, Pandas, Scikitlearn.
+- **Other:** Competitive Programming, Machine Learning.
 
 ##
 
